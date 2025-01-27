@@ -1,0 +1,11 @@
+C:\ProjectValidationAge\ValidationAge.Core\bin\Debug\net8.0\ValidationAge.Core.deps.json
+C:\ProjectValidationAge\ValidationAge.Core\bin\Debug\net8.0\ValidationAge.Core.dll
+C:\ProjectValidationAge\ValidationAge.Core\bin\Debug\net8.0\ValidationAge.Core.pdb
+C:\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\ValidationAge.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\ValidationAge.Core.AssemblyInfoInputs.cache
+C:\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\ValidationAge.Core.AssemblyInfo.cs
+C:\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\ValidationAge.Core.csproj.CoreCompileInputs.cache
+C:\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\ValidationAge.Core.dll
+C:\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\refint\ValidationAge.Core.dll
+C:\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\ValidationAge.Core.pdb
+C:\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\ref\ValidationAge.Core.dll

@@ -1,0 +1,54 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Validação de Idade",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/ValidationAge/ValidateAge": {
+      "post": {
+        "tags": [
+          "ValidationAge"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Age"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Age"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Age"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Age": {
+        "type": "object",
+        "properties": {
+          "userAge": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

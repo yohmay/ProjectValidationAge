@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ValidationAge.Api.Controllers.ValidationAgeController",
+    "Method": "IsAdult",
+    "RelativePath": "api/ValidationAge/ValidateAge",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "age",
+        "Type": "ValidationAge.Core.Models.Age",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

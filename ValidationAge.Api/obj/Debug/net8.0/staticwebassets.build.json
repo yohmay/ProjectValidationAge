@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gZq1wAYImGvXgiQn4uYswcw0E4wQG2S+44vsKb3x89U=",
+  "Source": "ValidationAge.Api",
+  "BasePath": "_content/ValidationAge.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

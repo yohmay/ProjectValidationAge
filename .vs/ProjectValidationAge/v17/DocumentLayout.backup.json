@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjectValidationAge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37FC07F4-1A39-4C15-B4A2-5A64E8E0DD2B}|ValidationAge.Api\\ValidationAge.Api.csproj|c:\\projectvalidationage\\validationage.api\\controllers\\validationagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37FC07F4-1A39-4C15-B4A2-5A64E8E0DD2B}|ValidationAge.Api\\ValidationAge.Api.csproj|solutionrelative:validationage.api\\controllers\\validationagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615DEF31-177E-4631-9799-F2416F3EDBC9}|ValidationAge.Core\\ValidationAge.Core.csproj|c:\\projectvalidationage\\validationage.core\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615DEF31-177E-4631-9799-F2416F3EDBC9}|ValidationAge.Core\\ValidationAge.Core.csproj|solutionrelative:validationage.core\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615DEF31-177E-4631-9799-F2416F3EDBC9}|ValidationAge.Core\\ValidationAge.Core.csproj|c:\\projectvalidationage\\validationage.core\\models\\useragevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615DEF31-177E-4631-9799-F2416F3EDBC9}|ValidationAge.Core\\ValidationAge.Core.csproj|solutionrelative:validationage.core\\models\\useragevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615DEF31-177E-4631-9799-F2416F3EDBC9}|ValidationAge.Core\\ValidationAge.Core.csproj|c:\\projectvalidationage\\validationage.core\\models\\age.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615DEF31-177E-4631-9799-F2416F3EDBC9}|ValidationAge.Core\\ValidationAge.Core.csproj|solutionrelative:validationage.core\\models\\age.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615DEF31-177E-4631-9799-F2416F3EDBC9}|ValidationAge.Core\\ValidationAge.Core.csproj|c:\\projectvalidationage\\validationage.core\\interfaces\\ivalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615DEF31-177E-4631-9799-F2416F3EDBC9}|ValidationAge.Core\\ValidationAge.Core.csproj|solutionrelative:validationage.core\\interfaces\\ivalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37FC07F4-1A39-4C15-B4A2-5A64E8E0DD2B}|ValidationAge.Api\\ValidationAge.Api.csproj|c:\\projectvalidationage\\validationage.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37FC07F4-1A39-4C15-B4A2-5A64E8E0DD2B}|ValidationAge.Api\\ValidationAge.Api.csproj|solutionrelative:validationage.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "C:\\ProjectValidationAge\\ValidationAge.Core\\Services\\ValidationService.cs",
+              "RelativeDocumentMoniker": "ValidationAge.Core\\Services\\ValidationService.cs",
+              "ToolTip": "C:\\ProjectValidationAge\\ValidationAge.Core\\Services\\ValidationService.cs",
+              "RelativeToolTip": "ValidationAge.Core\\Services\\ValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:42:59.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAgeValidation.cs",
+              "DocumentMoniker": "C:\\ProjectValidationAge\\ValidationAge.Core\\Models\\UserAgeValidation.cs",
+              "RelativeDocumentMoniker": "ValidationAge.Core\\Models\\UserAgeValidation.cs",
+              "ToolTip": "C:\\ProjectValidationAge\\ValidationAge.Core\\Models\\UserAgeValidation.cs",
+              "RelativeToolTip": "ValidationAge.Core\\Models\\UserAgeValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:42:44.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Age.cs",
+              "DocumentMoniker": "C:\\ProjectValidationAge\\ValidationAge.Core\\Models\\Age.cs",
+              "RelativeDocumentMoniker": "ValidationAge.Core\\Models\\Age.cs",
+              "ToolTip": "C:\\ProjectValidationAge\\ValidationAge.Core\\Models\\Age.cs",
+              "RelativeToolTip": "ValidationAge.Core\\Models\\Age.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:42:32.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IValidationService.cs",
+              "DocumentMoniker": "C:\\ProjectValidationAge\\ValidationAge.Core\\Interfaces\\IValidationService.cs",
+              "RelativeDocumentMoniker": "ValidationAge.Core\\Interfaces\\IValidationService.cs",
+              "ToolTip": "C:\\ProjectValidationAge\\ValidationAge.Core\\Interfaces\\IValidationService.cs",
+              "RelativeToolTip": "ValidationAge.Core\\Interfaces\\IValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:42:24.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjectValidationAge\\ValidationAge.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ValidationAge.Api\\Program.cs",
+              "ToolTip": "C:\\ProjectValidationAge\\ValidationAge.Api\\Program.cs",
+              "RelativeToolTip": "ValidationAge.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:35:44.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationAgeController.cs",
+              "DocumentMoniker": "C:\\ProjectValidationAge\\ValidationAge.Api\\Controllers\\ValidationAgeController.cs",
+              "RelativeDocumentMoniker": "ValidationAge.Api\\Controllers\\ValidationAgeController.cs",
+              "ToolTip": "C:\\ProjectValidationAge\\ValidationAge.Api\\Controllers\\ValidationAgeController.cs",
+              "RelativeToolTip": "ValidationAge.Api\\Controllers\\ValidationAgeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:35:26.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
