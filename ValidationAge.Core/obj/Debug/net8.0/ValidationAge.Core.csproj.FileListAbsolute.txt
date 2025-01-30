@@ -9,3 +9,15 @@ C:\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\ValidationAge.Core.d
 C:\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\refint\ValidationAge.Core.dll
 C:\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\ValidationAge.Core.pdb
 C:\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\ref\ValidationAge.Core.dll
+C:\vibe\ProjectValidationAge\ValidationAge.Core\bin\Debug\net8.0\ValidationAge.Core.deps.json
+C:\vibe\ProjectValidationAge\ValidationAge.Core\bin\Debug\net8.0\ValidationAge.Core.dll
+C:\vibe\ProjectValidationAge\ValidationAge.Core\bin\Debug\net8.0\ValidationAge.Core.pdb
+C:\vibe\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\ValidationAge.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\vibe\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\ValidationAge.Core.AssemblyInfoInputs.cache
+C:\vibe\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\ValidationAge.Core.AssemblyInfo.cs
+C:\vibe\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\ValidationAge.Core.csproj.CoreCompileInputs.cache
+C:\vibe\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\ValidationAge.Core.sourcelink.json
+C:\vibe\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\ValidationAge.Core.dll
+C:\vibe\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\refint\ValidationAge.Core.dll
+C:\vibe\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\ValidationAge.Core.pdb
+C:\vibe\ProjectValidationAge\ValidationAge.Core\obj\Debug\net8.0\ref\ValidationAge.Core.dll

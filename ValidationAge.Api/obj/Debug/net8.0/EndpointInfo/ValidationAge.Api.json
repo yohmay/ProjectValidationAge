@@ -14,17 +14,20 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Age"
+                "type": "integer",
+                "format": "int32"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Age"
+                "type": "integer",
+                "format": "int32"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Age"
+                "type": "integer",
+                "format": "int32"
               }
             }
           }
@@ -37,18 +40,5 @@
       }
     }
   },
-  "components": {
-    "schemas": {
-      "Age": {
-        "type": "object",
-        "properties": {
-          "userAge": {
-            "type": "integer",
-            "format": "int32"
-          }
-        },
-        "additionalProperties": false
-      }
-    }
-  }
+  "components": { }
 }

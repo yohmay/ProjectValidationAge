@@ -2,7 +2,13 @@
 {
     public class UserAgeValidation
     {
-        public int Age { get; set; }
-        public bool IsAdult { get; set; }
+        public int Age { get; }
+        public bool IsAdult { get; }
+
+        public UserAgeValidation(int age, bool isAdult)
+        {
+            Age = age;
+            IsAdult = isAdult;
+        }
     }
 }

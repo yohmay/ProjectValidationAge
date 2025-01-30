@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "age",
-        "Type": "ValidationAge.Core.Models.Age",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

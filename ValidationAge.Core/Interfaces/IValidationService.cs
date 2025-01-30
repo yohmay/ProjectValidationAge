@@ -1,7 +1,9 @@
-﻿namespace ValidationAge.Core.Interfaces
+﻿using ValidationAge.Core.Models;
+
+namespace ValidationAge.Core.Interfaces
 {
     public interface IValidationService
     {
-        bool IsAdult(int Age);
+        Task<UserAgeValidation> IsAdult(int Age);
     }
 }

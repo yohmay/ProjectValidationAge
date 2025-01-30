@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 using ValidationAge.Core.Interfaces;
-using ValidationAge.Core.Models;
 
 namespace ValidationAge.Api.Controllers
 {
@@ -16,16 +15,10 @@ namespace ValidationAge.Api.Controllers
         }
 
         [HttpPost("ValidateAge")]
-        public async Task<IActionResult> IsAdult([FromBody] Age age)
+        public async Task<IActionResult> IsAdult([FromBody] int age)
         {
-            if (age.UserAge >= 18)
-            {
-                return Ok("Entrada Liberada");
-            }
-            else
-            {
-                return Ok("Entrada Proibida");
-            }
+            var validationAge = await ValidationService.IsAdult(age);
+            return Ok(validationAge);
         }
     }
 }
